@@ -61,7 +61,7 @@
     padding: 20px;
     text-align: justify;
     background-color: rgba(84, 144, 245, 0.2);
-    border-radius: 7px;
+    border-radius: 8px;
 }
 .box-2{
     height: 200px;
@@ -69,7 +69,7 @@
     padding: 20px;
     text-align: justify;
     background-color: rgba(198, 228, 214, 1);
-    border-radius: 7px;
+    border-radius: 8px;
 }
 .box-3{
     height: 200px;
@@ -77,7 +77,7 @@
     padding: 20px;
     text-align: justify;
     background-color: rgba(247, 235, 207, 1);
-    border-radius: 7px;
+    border-radius: 8px;
 }
 .box-container{
     display: flex;
@@ -98,11 +98,11 @@
 }
 .padding-2{
     padding-top: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 25px;
 }
 .padding-3{
     padding-top: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 25px;
 }
 .bn1{           
     background-color: rgba(84, 144, 245, 1);
@@ -140,4 +140,39 @@
     padding-top: 20px;
     padding-bottom: 10px;
     font-size: 24px;
+}
+.dev-container-1{
+    margin-left: 75px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.dev-container-2{
+    margin-left: 75px;
+    padding-bottom: 10px;
+}
+.dev-box-1-right{
+    padding-left: 10px;
+}
+.switch{
+    background-color: rgba(0, 106, 80, 1);
+    color: rgba(255, 255, 255, 1);
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+.dev-box-1{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(213, 213, 213);
+    margin-left: 75px;
+    margin-right: 35px;
+    padding: 48px 48px;
+    border-radius: 8px;
+}
+.dev-subtitle{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.picture-1{
+    padding-bottom: 10px;
 }
