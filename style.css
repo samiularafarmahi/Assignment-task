@@ -192,3 +192,43 @@
 .picture-4{
     border-radius: 8px;
 }
+.text{
+    text-align: center;
+    width: 1145px;
+    height: 464px;
+    margin-top: 80px;
+    background-color: whitesmoke;
+    margin-left: 75px;
+    border-radius: 8px;
+}
+.yes{
+    border: 2px solid rgba(14, 14, 14, 0.15);
+    font-size: 40px;
+    font-weight: bold;
+    display: inline;
+    border-radius: 8px;
+    padding: 10px;
+    color: rgba(14, 14, 14, 0.8);
+}
+.father{
+    padding: 32px;
+    padding-bottom: 32px;
+}
+.title{
+    padding-bottom: 24px;
+}
+.input{
+    margin-bottom: 32px;
+    width: 732px;
+    height: 50px;
+    text-align: center;
+}
+.yes-2{
+    background-color: rgba(198, 228, 214, 1);
+}
+.button{
+    padding: 10px 25px;
+    background-color: rgba(0, 106, 80, 1);
+    color: white;
+
+}
